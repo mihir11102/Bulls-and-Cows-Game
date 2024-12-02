@@ -5,4 +5,4 @@ This project demonstrates the application of Shannon's entropy in the Bulls and 
 - Provides detailed visualizations.
 - Applicable beyond games in fields like machine learning and cryptography.
 
-Video Demonstartion - https://drive.google.com/drive/folders/1GCd8y4S22jTcAK3KVM7vutyo5C-eOU-S?usp=drive_link
+Video Demonstration - https://drive.google.com/drive/folders/1GCd8y4S22jTcAK3KVM7vutyo5C-eOU-S?usp=drive_link
